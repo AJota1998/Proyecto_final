@@ -1,6 +1,9 @@
 # Nombre de la web
 cofraNews
 
+# Eslogan
+Información cofrade a tu manera
+
 # Objetivo
 Realizar una página web donde los usuarios cofrades puedan estar informados de las noticias que suceden en cualquier colectivo 
 de la Semana Santa.
