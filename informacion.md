@@ -1,4 +1,4 @@
-# Nombre de la web: 
+# Nombre de la web
 cofraNews
 
 # Objetivo
