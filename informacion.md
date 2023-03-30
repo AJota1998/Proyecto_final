@@ -40,9 +40,9 @@ manera organizada.
         - Buscar con filtros a los colectivos que desee, bien para ver su perfil, consultar su página de información o adherirlos a sus espacios creados
         - Seguir a los espacios que ya estén creados
         - Consultar los espacios a los que está siguiendo
-        - Consumir el contenido que los colectivos publican en los espacios que sigue
-        - Suscribirse al contenido premium de tantos colectivos como desee
-        - Interactuar mediante "me gusta", "no me gusta" sobre el contenido que publiquen los colectivos, y si es suscriptor comentar 
+        - Consumir el contenido premium que los colectivos publican en los espacios que está suscrito
+        - Suscribirse al contenido premium de tantos espacios como desee
+        - Interactuar mediante "me gusta", "no me gusta" sobre el contenido que publiquen los colectivos, y si es suscriptor del espacio poder comentar en todas las publicaciones
         - Consultar sus estadísticas
         - Eliminar su cuenta y todos sus datos
 
@@ -68,19 +68,21 @@ COLECTIVOS
         - Nombre del colectivo
         - Año de fundación
         - Descripción del colectivo
-    - Usuarios premium 
 
 ESPACIOS
     - ID_espacio
     - Colectivos FK
     - Descripción del espacio 
+    - Usuarios premium
     
 PUBLICACIONES
     - ID_publicación
     - ID_colectivo FK
     - Tipo (Noticia, mensaje, foto, video)
     - Contenido
+    - Pie (opcional)
     - Fecha de publicación
+    - Contenido premium (y/n)
 
 # Stack tecnológico
 
