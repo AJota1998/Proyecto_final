@@ -64,6 +64,7 @@ COLECTIVOS
             Banda de música (BM), Órgano oficial, Órgano católico)
     - Provincia
     - Localidad
+    - Imagen de perfil
     - Información
         - Nombre del colectivo
         - Año de fundación
@@ -96,7 +97,7 @@ BBDD:
 Front: 
     - JS
     - HTML, CSS, Boostrap
-    - React o Angular
+    - Angular
 
 Despliegues: 
     - GithubPages
