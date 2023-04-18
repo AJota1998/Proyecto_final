@@ -72,6 +72,7 @@ COLECTIVOS
 
 ESPACIOS
     - ID_espacio
+    - Nombre
     - Colectivos FK
     - Descripción del espacio 
     - Usuarios premium
