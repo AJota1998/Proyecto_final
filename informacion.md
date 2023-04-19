@@ -60,6 +60,8 @@ USUARIOS
 COLECTIVOS
     - ID_colectivo
     - Nombre de colectivo
+    - Correo 
+    - Contraseña
     - Tipo (Asociación cofrade, Hermandad de vísperas, Hermandad de penitencia, Hermandad de gloria, Agrupación musical (AM), Cornetas y tambores (CCTT),  
             Banda de música (BM), Órgano oficial, Órgano católico)
     - Provincia

@@ -17,7 +17,7 @@
                     <mxGeometry x="1130" y="-160" width="150" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="qMkH_yW-luxWWShTku8l-9" value="&lt;b&gt;id_espacio&lt;br&gt;&lt;/b&gt;nombre&lt;br&gt;&lt;i&gt;colectivos&lt;/i&gt;&lt;br&gt;&lt;i&gt;usuarios_premium&lt;/i&gt;&lt;br&gt;descripción" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="500" y="-230" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="500" y="-240" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="qMkH_yW-luxWWShTku8l-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" parent="1" target="qMkH_yW-luxWWShTku8l-21" edge="1">
                     <mxGeometry relative="1" as="geometry">
