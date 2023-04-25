@@ -56,6 +56,7 @@ USUARIOS
     - Contraseña
     - Imagen de perfil
     - Rol (Administrador, General)
+    - Espacios FK [espacio1, e23, e34]
 
 COLECTIVOS
     - ID_colectivo
@@ -75,9 +76,10 @@ COLECTIVOS
 ESPACIOS
     - ID_espacio
     - Nombre
-    - Colectivos FK
+    - Colectivos FK [colectivo1, c2, c67, c78]
     - Descripción del espacio 
     - Usuarios premium
+    - Campo Privado / publico (Como mejora para agrandar funcionalidades)
     
 PUBLICACIONES
     - ID_publicación
