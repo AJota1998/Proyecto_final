@@ -78,7 +78,6 @@ ESPACIOS
     - Nombre
     - Colectivos FK [colectivo1, c2, c67, c78]
     - Descripción del espacio 
-    - Usuarios premium
     - Campo Privado / publico (Como mejora para agrandar funcionalidades)
     
 PUBLICACIONES
@@ -88,7 +87,6 @@ PUBLICACIONES
     - Contenido
     - Pie (opcional)
     - Fecha de publicación
-    - Contenido premium (y/n)
 
 # Stack tecnológico
 

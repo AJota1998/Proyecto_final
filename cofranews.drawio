@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="q_SyrXB1hb_qUSjCRa4C" name="Página-1">
-        <mxGraphModel dx="1216" dy="1953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="309" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,10 +13,10 @@
                         <mxPoint x="880" y="-120" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="qMkH_yW-luxWWShTku8l-8" value="&lt;b&gt;id_usuario&lt;/b&gt;&lt;br&gt;nombre&lt;br&gt;nombre_usuario&lt;br&gt;correo&lt;br&gt;contraseña&lt;br&gt;imágen_perfil&lt;br&gt;Rol (Admin, General)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
+                <mxCell id="qMkH_yW-luxWWShTku8l-8" value="&lt;b&gt;id_usuario&lt;/b&gt;&lt;br&gt;nombre&lt;br&gt;nombre_usuario&lt;br&gt;correo&lt;br&gt;contraseña&lt;br&gt;imágen_perfil&lt;br&gt;Rol (Admin, General)&lt;br&gt;&lt;i&gt;Espacios&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1130" y="-160" width="150" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="qMkH_yW-luxWWShTku8l-9" value="&lt;b&gt;id_espacio&lt;br&gt;&lt;/b&gt;nombre&lt;br&gt;&lt;i&gt;colectivos&lt;/i&gt;&lt;br&gt;&lt;i&gt;usuarios_premium&lt;/i&gt;&lt;br&gt;descripción" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
+                <mxCell id="qMkH_yW-luxWWShTku8l-9" value="&lt;b&gt;id_espacio&lt;br&gt;&lt;/b&gt;nombre&lt;br&gt;&lt;i&gt;colectivos&lt;/i&gt;&lt;br&gt;descripción" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
                     <mxGeometry x="500" y="-240" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="qMkH_yW-luxWWShTku8l-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" parent="1" target="qMkH_yW-luxWWShTku8l-21" edge="1">
@@ -87,8 +87,8 @@
                 <mxCell id="9" value="&lt;b&gt;id_colectivo&lt;/b&gt;&lt;br&gt;nombre&lt;br&gt;correo&lt;br&gt;contraseña&lt;br&gt;tipo_colectivo&lt;br&gt;provincia&lt;br&gt;localidad&lt;br&gt;imágen_perfil&lt;br&gt;información:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;nombre_colectivo&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;año_fundación&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;descripción" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
                     <mxGeometry x="500" y="280" width="150" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="&lt;b&gt;id_publicación&lt;/b&gt;&lt;br&gt;&lt;i&gt;id_colectivo&lt;br&gt;&lt;/i&gt;tipo_publicación&lt;br&gt;contenido&lt;br&gt;pie&lt;br&gt;fecha_publicación&lt;br&gt;contenido_premium (y/n)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1130" y="200" width="150" height="130" as="geometry"/>
+                <mxCell id="10" value="&lt;b&gt;id_publicación&lt;/b&gt;&lt;br&gt;&lt;i&gt;id_colectivo&lt;br&gt;&lt;/i&gt;tipo_publicación&lt;br&gt;contenido&lt;br&gt;pie&lt;br&gt;fecha_publicación&lt;br&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1130" y="200" width="150" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="Pertenecen" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="508.5" y="10" width="103" height="80" as="geometry"/>
